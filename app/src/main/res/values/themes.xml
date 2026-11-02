@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nur für das Fenster vor dem ersten Compose-Frame; das eigentliche Theme ist Compose (Material 3). -->
+    <style name="Theme.BulkTracker" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+</resources>
